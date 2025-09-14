@@ -1,0 +1,16 @@
+{
+  "name": "05.npm",
+  "version": "1.0.0",
+  "description": "Belajar node js",
+  "license": "ISC",
+  "author": "kokoy13",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "validator": "^13.5.2"
+  }
+}
